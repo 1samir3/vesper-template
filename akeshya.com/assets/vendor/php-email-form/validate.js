@@ -1,0 +1,1 @@
+No Content: https://akeshya.com/assets/vendor/php-email-form/validate.js
